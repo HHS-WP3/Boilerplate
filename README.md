@@ -1,2 +1,2 @@
 # Boilerplate
-MERN stack basic code line
+This code is the skeleton for any future Website developmet projects. 
