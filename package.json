@@ -1,0 +1,28 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "This code is the skeleton for any future Website development projects.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tardis-debug/Boilerplate.git"
+  },
+  "author": "tardis-debug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tardis-debug/Boilerplate/issues"
+  },
+  "homepage": "https://github.com/Tardis-debug/Boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
